@@ -20,7 +20,8 @@ Login:
 ![image](https://user-images.githubusercontent.com/9819281/85126455-2027ec00-b24b-11ea-81e6-66252176992b.png)
 
 SignUp:
-![image](https://user-images.githubusercontent.com/9819281/85126556-5b2a1f80-b24b-11ea-910f-a4a12c540aa6.png)
+![image](https://user-images.githubusercontent.com/9819281/85127226-adb80b80-b24c-11ea-9bd3-2414184a9bb3.png)
+
 
 Dashboard:
 ![image](https://user-images.githubusercontent.com/9819281/85126852-e86d7400-b24b-11ea-825e-d1ef2f92dd0b.png)
