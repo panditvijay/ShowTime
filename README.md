@@ -16,4 +16,21 @@ Prepare UI for the following application.
 
 Screenshots:
 ------------------
+Login:
 ![image](https://user-images.githubusercontent.com/9819281/85126455-2027ec00-b24b-11ea-81e6-66252176992b.png)
+
+SignUp:
+![image](https://user-images.githubusercontent.com/9819281/85126556-5b2a1f80-b24b-11ea-910f-a4a12c540aa6.png)
+
+Dashboard:
+![image](https://user-images.githubusercontent.com/9819281/85126852-e86d7400-b24b-11ea-825e-d1ef2f92dd0b.png)
+
+OnExpand:
+![image](https://user-images.githubusercontent.com/9819281/85126941-1ce13000-b24c-11ea-875e-7e97a87fd325.png)
+
+AddMovie:
+![image](https://user-images.githubusercontent.com/9819281/85126649-86147380-b24b-11ea-9c9a-5151d8124b6e.png)
+
+EditMovie:
+![image](https://user-images.githubusercontent.com/9819281/85126780-c07e1080-b24b-11ea-9c74-18c98a3bb8fe.png)
+
